@@ -16,8 +16,8 @@
 title: Vincent Bridonneau
 email: vincent.bridonneau@univ-lehavre.fr
 description: >- # this means to ignore newlines until "baseurl:"
-Hi! I'm Vincent Bridonneau. I've started a Ph.D at Le Havre University since October 2020.
-I'm a computer scientist and I work on Dynamic Graph theory as well as in High Performance Computing.
+  Hi! I'm Vincent Bridonneau. I've started a Ph.D at Le Havre University since October 2020.
+  I'm a computer scientist and I work on Dynamic Graph theory as well as in High Performance Computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
